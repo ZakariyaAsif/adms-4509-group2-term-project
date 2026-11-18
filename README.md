@@ -42,7 +42,7 @@ Subsequently, I’ll calculate an independent normal benchmark using the same po
 
 
 
-## <ins>Software: Jupyter + SciPy</ins>  
+## <ins>Software: Jupyter (incl. pandas, NumPy, SciPy, & matplotlib)</ins>  
 I’ll use Jupyter/Python, extract/read the existing time-series supplied by Rowan, fit the GPD, repeat the fit at several thresholds, and create a comparison chart in a reproducible notebook. I’ll likely use Excel to share inputs and results with the group or otherwise. I believe the SciPy library may have the relevant tools for conducting analysis above.   
 
 

@@ -50,4 +50,4 @@ I’ll use Jupyter/Python, extract/read the existing time-series supplied by Row
 ## <ins>Sources</ins>
 1. [SciPy documentation: fitting continuous statistical functions](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rv_continuous.fit.html)  
 
-2. [The price and log returns .xlsx dataset Rowan thoughtfully shared.](data/5 Year Historical Stock Price Data - ADMS4509.xlsx)  
+2. [The price and log returns .xlsx dataset Rowan thoughtfully shared.](/data/5 Year Historical Stock Price Data - ADMS4509.xlsx)  

@@ -47,7 +47,11 @@ I’ll use Jupyter/Python, extract/read the existing time-series supplied by Row
 
 
 
-## <ins>Sources</ins>
-1. [SciPy documentation: fitting continuous statistical functions](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rv_continuous.fit.html)  
+## <ins>Methodological Sources</ins>
+1. [The SciPy Community. 2008, scipy.stats.rv_continuous.fit.](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rv_continuous.fit.html)   
 
-2. [The price and log returns .xlsx dataset Rowan thoughtfully shared.](/data/5 Year Historical Stock Price Data - ADMS4509.xlsx)  
+2. [MaximeNc. June 22, 2021. Extreme-Risk. GitHub Repository.](https://github.com/maximenc/Extreme-Risk)  
+
+3. [PyQuant News (PQN). April 12, 2026. How to calculate value at risk in Python with three methods. PQN.](https://www.pyquantnews.com/free-python-resources/calculate-value-risk-python-three-methods)  
+
+4. [Hobson, P. 2026. Probability Plots in Depth. Herrera Environmental Consultants. Mpl-probscale.](https://matplotlib.org/mpl-probscale/tutorial/closer_look_at_viz.html)
